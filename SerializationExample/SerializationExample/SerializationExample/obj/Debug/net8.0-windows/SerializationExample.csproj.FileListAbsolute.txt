@@ -1,0 +1,17 @@
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\bin\Debug\net8.0-windows\SerializationExample.exe
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\bin\Debug\net8.0-windows\SerializationExample.deps.json
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\bin\Debug\net8.0-windows\SerializationExample.runtimeconfig.json
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\bin\Debug\net8.0-windows\SerializationExample.dll
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\bin\Debug\net8.0-windows\SerializationExample.pdb
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\obj\Debug\net8.0-windows\SerializationExample.Form1.resources
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\obj\Debug\net8.0-windows\SerializationExample.csproj.GenerateResource.cache
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\obj\Debug\net8.0-windows\SerializationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\obj\Debug\net8.0-windows\SerializationExample.AssemblyInfoInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\obj\Debug\net8.0-windows\SerializationExample.AssemblyInfo.cs
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\obj\Debug\net8.0-windows\SerializationExample.csproj.CoreCompileInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\obj\Debug\net8.0-windows\SerializationExample.dll
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\obj\Debug\net8.0-windows\refint\SerializationExample.dll
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\obj\Debug\net8.0-windows\SerializationExample.pdb
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\obj\Debug\net8.0-windows\SerializationExample.genruntimeconfig.cache
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\obj\Debug\net8.0-windows\ref\SerializationExample.dll
+C:\Users\siyar\OneDrive\Masaüstü\SerializationExample\SerializationExample\SerializationExample\bin\Debug\net8.0-windows\urunler.json
